@@ -3,3 +3,14 @@ numpy
 pandas
 pydeck
 streamlit
+plost
+matplotlib
+plotly
+seaborn
+statsmodels
+cbsodata
+ipywidgets
+geopandas
+folium
+streamlit_folium
+branca
